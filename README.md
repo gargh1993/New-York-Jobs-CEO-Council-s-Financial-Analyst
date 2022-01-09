@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hemnat Garg.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m had completed my Masters in Data Science and also hold another Masters degree in Applied Mathematics.
+- 🌱 I had completed my Masters in Data Science and also hold another Masters degree in Applied Mathematics.
 - 💞️ I’m looking for an opportunity in Data Science.
 - 📫 You can reached me by hemantgarg127@gmail.com.
 
